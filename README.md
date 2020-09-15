@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Description](#Description)
 - [Example](#Example)
-- [Technologies Used](#Technologies Used)
+- [Technologies Used](#Technologies_Used)
 
 ## Description
 Shopping_cart is a shopping cart web application where you can buy a wonderful selection of books.
